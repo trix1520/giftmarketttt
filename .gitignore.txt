@@ -4,3 +4,4 @@ giftmarket.db
 .env
 npm-debug.log
 .DS_Store
+password.txt
